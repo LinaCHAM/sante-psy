@@ -2,7 +2,7 @@
 /* eslint-disable max-len */
 module.exports = () => [
   {
-    question: 'Puis-je aller voir directement le/la psychologue ?',
+    question: 'Puis-je aller voir directement le psychologue ?',
     answer: 'Dans le cadre du dispositif Santé Psy Etudiants, \
     vous ne pouvez pas aller voir directement un psychologue ; vous devez consulter un médecin \
     du service de santé universitaire ou un médecin généraliste \
@@ -29,7 +29,7 @@ module.exports = () => [
   {
     question: 'J\'ai bénéficié des trois séances, je souhaite renouveler ma demande, comment faire ?',
     answer: 'Pour renouveler votre demande il est obligatoire de consulter une nouvelle fois votre médecin \
-    généraliste afin d\'obtenir une lettre d\'orientation. Une fois établis vous avez de nouveau droit à 3 séances \
+    généraliste afin d\'obtenir une lettre d\'orientation. Une fois établi, vous avez de nouveau droit à 3 séances \
     avec un des psychologues partenaires.',
   },
 ];
