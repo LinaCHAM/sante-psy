@@ -10,7 +10,7 @@ module.exports = config => [
     question: 'Je souhaite modifier des informations sur mon espace. Comment puis-je faire ?',
     answer: `Pour modifier vos informations, envoyez-nous un email à <a href="mailto:${config.contactEmail}">${config.contactEmail}</a> \
     pour repasser votre dossier "en construction". Sachez toutefois que pendant ce temps, \
-    vous n’apparaîtrez plus sur l'annuaire, et vous ne pourrez pas déclarer vos séances. Une fois les modifications effectuées,nous vous invitons à nous renvoyer un email de confirmation afin de réactiver votre dossier.`,
+    vous n’apparaîtrez plus sur l'annuaire public des psychologues partenaires du dispositif, et vous ne pourrez pas déclarer vos séances. Une fois les modifications effectuées,nous vous invitons à nous renvoyer un email de confirmation afin de réactiver votre dossier.`,
   },
   {
     question: 'Je ne parviens pas à accéder à mon espace psychologue. Que puis-je faire ?',
@@ -18,8 +18,8 @@ module.exports = config => [
     le site https://santepsy.etudiant.gouv.fr et dans la rubrique "je suis psychologue", \
     cliquer sur le bouton "Déclarer mes séances". \
     Vous serez redirigée sur une page de connexion sur laquelle vous allez devoir renseigner \
-    votre adresse email personnelle, renseignée dans le formulaire d\'inscription déjà rempli, \
-    et vous recevrez sur cette adresse, un mail de notre part avec un bouton sur lequel cliquer. \
-    Vous serez alors connectée sur votre espace pour déclarer vos séances.',
+    votre adresse email personnelle, renseignée dans le formulaire d\'inscription déjà rempli. \
+    Vous recevrez ensuite sur cette adresse, un mail de notre part avec un bouton sur lequel cliquer. \
+    Vous serez alors connecté sur votre espace pour déclarer vos séances.',
   },
 ];
