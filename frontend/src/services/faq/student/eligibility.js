@@ -18,8 +18,8 @@ module.exports = () => [
     answer: 'Vous n\'êtes pas obligé de passer par un SSU : \
     vous pouvez consulter votre médecin traitant ou un médecin généraliste, \
     qui vous orientera vers un psychologue partenaire du dispositif. \
-    Vous pouvez aussi consulter le site de votre université ou école, ou téléphoner, \
-    pour trouver si vous dépendez d\'un SSU.',
+    Vous pouvez aussi consulter le site de votre université / école ou téléphoner, \
+    pour savoir si vous dépendez d\'un SSU.',
   },
   {
     question: 'J’ai déjà un suivi. Puis-je cependant bénéficier du dispositif ?',
@@ -28,7 +28,7 @@ module.exports = () => [
   },
   {
     question: 'Je n\'ai pas de numéro INE mais j\'ai bien une carte étudiante et l\'ordonnance du médecin ?',
-    answer: 'Le numéro INE est facultatif. Si vous êtes étudiant dans le supérieur vous pouvez donc avoir accès \
+    answer: 'Le numéro INE est facultatif. Si vous êtes étudiant dans le supérieur, vous pouvez donc avoir accès \
     au dispositif en présentant votre lettre d\'orientation.',
   },
   {
